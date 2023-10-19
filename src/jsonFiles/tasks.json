@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "projectId": 1,
+    "title": "Fundamentals in Mathematics",
+    "description": "A foundation level mathematics course to prepare students for high school mathematics",
+    "dueDate": "2023-10-20",
+    "isCompleted": true
+  },
+  {
+    "id": 2,
+    "projectId": 1,
+    "title": "Algebra I",
+    "description": "A high school level mathematics course for algebra, it is a primer for studying further mathematics including algebra II, precalculus, trigonometry, geometry and calculus."
+  },
+  {
+    "id": 4,
+    "projectId": 2,
+    "title": "Harvest spinach for lunch",
+    "description": "The spinach's gotta be eaten!"
+  },
+  {
+    "id": 5,
+    "projectId": 2,
+    "title": "Harvest kale for dinner",
+    "description": "MMM Kale!"
+  }
+]

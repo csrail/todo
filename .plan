@@ -1,0 +1,18 @@
+.REFACTOR algorithm: single responsibility
+.separate application logic from dom logic into separate modules, use export/import
+.create priority feature for tasks
+.create option to delete tasks
++create projects feature, projects collect tasks
+.feature: create new project instance
+.feature: create new task instance from within project
+.feature: create new ad hoc task independent to project
+.feature: tasks can be assigned to a project
+.make project description editable
+.make project saveable
++list all projects
++when project is clicked, show all assigned tasks
++set up TaskCollection to collect tasks?
++passive navigation: home>project>task, when project is clicked, show parent project
++active navigation: click on task, passive navigation task button only set up once
+
+?when to use dependency injection? currently I am collaborating by fetching elements directly instead of through arguments
